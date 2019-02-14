@@ -13,7 +13,9 @@ The goal of the club is to engage the girls in coding, beyond scratch, with hand
 06 - [Dictionaries](html/GALA_Coding_Club_06.html)<br>
 07 - [Sets (has image files)](html/GALA_Coding_Club_07.html)
 
-## Part 2. Data Science Project - Mapping Student Population by Zip Code
+## Part 2. Data Science Project
+**Mapping Student Population by Zip Code**
+
 08 - [Zip Codes Part 1 - Intro to Data Visualizion](html/GALA_Coding_Club_08.html)<br>
 09 - [Zip Codes Part 2 - Intro to Folium](html/GALA_Coding_Club_09.html)<br>
 10 - [Zip Codes Part 3 - The Bubble Map](html/GALA_Coding_Club_10.html)<br>
