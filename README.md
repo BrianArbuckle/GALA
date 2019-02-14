@@ -7,7 +7,7 @@ This repository is for the 2018-2019 middle school python coding club that I run
 The goal of the club is to engage the girls in coding, beyond scratch, with hands-on practical data science and IOT projects to see the problem-solving potential of coding in everyday life. 
 
 ## Part 1. Python Basics:
-01 - Variables & Strings
+01 - [Variables & Strings](html/GALA_Coding_Club_01.html)
 
 02 - Numbers
 
