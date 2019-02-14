@@ -1,0 +1,5 @@
+/__pycache__/
+build/
+/snadbox/
+.DS_Store
+/.ipynb_checkpoints/
