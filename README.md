@@ -21,3 +21,5 @@ The goal of the club is to engage the girls in coding, beyond scratch, with hand
 10 - [Zip Codes Part 3 - The Bubble Map](html/GALA_Coding_Club_10.html)<br>
 11 - [Tuples and Geo data / Coordinates for mapping lines and boundaries](html/GALA_Coding_Club_11.html)<br>
 12 - [Data Structures Review, Intro to Pandas, and Drawing a zip code boundary on the map](html/GALA_Coding_Club_12.html)
+
+*This page will be updated weekly thoughout the school year.
