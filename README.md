@@ -1,5 +1,3 @@
-# GALA
-Python Coding Club
 
 This repository is for the 2018-2019 middle school python coding club that I run at the **Girls Academic Leadership Academy, Dr. Michelle King School for Science, Technology, Engineering and Math (GALA)**.  The club meets once a week during the girls’ lunch break. 
 
