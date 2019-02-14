@@ -5,7 +5,7 @@ This repository is for the 2018-2019 middle school python coding club that I run
 The goal of the club is to engage the girls in coding, beyond scratch, with hands-on practical data science and IOT projects to see the problem-solving potential of coding in everyday life. 
 
 ## Current Project:
-[Zip Code Map](html/gala_zip_map_v1.html) - *see **'Zip Codes Part 3 - The Bubble Map'** for the code*
+[Zip Code Map](html/gala_zip_map_v1.html) - *see below **'Zip Codes Part 3 - The Bubble Map'** for the code*
 
 ## Part 1. Python Basics:
 01 - [Variables & Strings](html/GALA_Coding_Club_01.html)<br>
