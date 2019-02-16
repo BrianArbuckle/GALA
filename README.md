@@ -11,9 +11,9 @@ The goal of the club is to engage the girls in coding, beyond scratch, with hand
 02 - Numbers<br>
 03 - List (and a brief intro to complex numbers)<br>
 04 - List Methods and Iteration with Loops (intro to list comprehension)<br>
-05 - Conditional Tests - IF Statements (has image files)<br>
+05 - Conditional Tests - IF Statements<br>
 06 - Dictionaries<br>
-07 - Sets (has image files)
+07 - Sets
 
 ## Part 2. Data Science Project - Mapping Student Population by Zip Code
 08 - Zip Codes Part 1 - Intro to Data Visualizion<br>
