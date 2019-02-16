@@ -14,9 +14,9 @@ Stay tuned, we will being making a choropleth map to better represent the data.
 02 - [Numbers](html/GALA_Coding_Club_02.html)<br>
 03 - [List (and a brief intro to complex numbers)](html/GALA_Coding_Club_03.html)<br>
 04 - [List Methods and Iteration with Loops (intro to list comprehension)](html/GALA_Coding_Club_04.html)<br>
-05 - [Conditional Tests - IF Statements (has image files)](html/GALA_Coding_Club_05.html)<br>
+05 - [Conditional Tests - IF Statements](html/GALA_Coding_Club_05.html)<br>
 06 - [Dictionaries](html/GALA_Coding_Club_06.html)<br>
-07 - [Sets (has image files)](html/GALA_Coding_Club_07.html)
+07 - [Sets](html/GALA_Coding_Club_07.html)
 
 ## Part 2. Data Science Project
 **Mapping Student Population by Zip Code**
