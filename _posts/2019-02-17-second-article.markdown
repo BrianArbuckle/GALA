@@ -1,9 +1,9 @@
 ---
+
 published: true
 title: System Test dan Integration Test pada Rails
 layout: post
-categories: ruby
-tags: [ruby, testing]
+
 ---
 
 **1. System test digunakan untuk menguji interaksi pengguna** dengan aplikasi Rails menggunakan _real atau headless browsers_. 
