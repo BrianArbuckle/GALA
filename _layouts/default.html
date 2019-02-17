@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
-
+    <link rel="stylesheet" href="{{ '/assets/css/gala.css' | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -45,12 +45,12 @@
                the problem-solving potential of coding in everyday life.
             </p>
             
-            <h2 id="goals">Latest Blog Entry</h1>
+            <h2>Latest Blog Entry</h1>
             {% assign post = site.posts.first %}
-                <p class="post-title">{{post.title}}</hp>
-                <div class="post-date">
+                <div class="post-title">{{post.title}}</div>
+                <p class="post-date">
                   {{ post.date | date: "%B %d, %Y"}}
-                </div>
+                </p>
                 <div class="content">
                     {{ post.content }}
                 </div>

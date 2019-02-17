@@ -1,8 +1,6 @@
 ---
 published: true
-title: Testing
-categories: ruby
-tags: [ruby, fibonacci]
+title: Title for Testing Title for Testing Title for Testing Title for Testing Title for Testing Title for Testing
 ---
 
  Fibonacci atau sering disebut deret atau bilangan fibonacci adalah sebuah deret bilangan yang memiliki pola tertentu, yaitu sebuah suku ke -n , merupakan hasil penjumlahan dari suku (n-1) dengan suku (n-2). berikut adalah contohnya:
