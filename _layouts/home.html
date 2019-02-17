@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div id="content-wrapper">
+  <div class="inner clearfix">
+    <section id="main-content">
+        <p>This repository is for the 2018-2019 middle school python coding
+          club that I run at the <strong>Girls Academic Leadership Academy,
+          Dr. Michelle King School for Science, Technology, Engineering and Math (GALA)</strong>.
+          The club meets once a week during the girls’ lunch break.
+        </p>
+
+        <h1 id="goals">Goals</h1>
+        <p>The goal of the club is to engage the girls in coding,
+           beyond scratch, with hands-on practical data science and IOT projects to see 
+           the problem-solving potential of coding in everyday life.
+        </p>
+        
+        <h2>Latest Blog Entry</h1>
+          
+        {% assign post = site.posts.first %}
+            <div class="post-title">{{post.title}}</div>
+            <div class="post-date">
+              {{ post.date | date: "%B %d, %Y"}}
+            </div>
+            <div class="content">
+                {{ post.content }}
+            </div>
+        
+        <a href="#">See More entries ...</a>
+        
+        {{ content }}
+        
+    </section>
+
+  {%- include sidebar.html -%}
+
+  </div>
+</div>
+
