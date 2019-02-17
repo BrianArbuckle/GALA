@@ -48,9 +48,9 @@
             <h2>Latest Blog Entry</h1>
             {% assign post = site.posts.first %}
                 <div class="post-title">{{post.title}}</div>
-                <p class="post-date">
+                <div class="post-date">
                   {{ post.date | date: "%B %d, %Y"}}
-                </p>
+                </div>
                 <div class="content">
                     {{ post.content }}
                 </div>
