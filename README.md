@@ -1,6 +1,7 @@
 
 This repository is for the 2018-2019 python coding club that I run at the **Girls Academic Leadership Academy, Dr. Michelle King School for Science, Technology, Engineering and Math (GALA)**.  The club meets once a week during the girls’ lunch break. 
 
+
 # Goals
 The goal of the club is to engage the girls in coding, beyond scratch, with hands-on practical data science and IOT projects to see the problem-solving potential of coding in everyday life. 
 
