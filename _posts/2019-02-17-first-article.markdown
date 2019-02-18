@@ -1,9 +1,11 @@
 ---
 
 published: true
-title: Title for Testing Title for Testing Title for Testing Title for Testing Title for Testing Title for Testing
+title: First Article
+layout: post
 
 ---
+
 
  Fibonacci atau sering disebut deret atau bilangan fibonacci adalah sebuah deret bilangan yang memiliki pola tertentu, yaitu sebuah suku ke -n , merupakan hasil penjumlahan dari suku (n-1) dengan suku (n-2). berikut adalah contohnya:
 
@@ -45,3 +47,6 @@ end
 p (1..1000).map {|i| fib(i)}
 
 ```
+
+Referensi:
+- https://devblast.com/b/ruby-fizzbuzz-fibonacci
