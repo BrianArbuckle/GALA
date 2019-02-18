@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div id="content-wrapper">
+  <div class="inner clearfix">
+    <section id="main-content">
+        <div class="post-title">{{page.title}}</div>
+        <div class="post-date">
+          {{ page.date | date: "%B %d, %Y"}}
+        </div>
+        <div class="content">
+            {{ page.content }}
+        </div>
+    </section>
+
+  {%- include sidebar.html -%}
+
+  </div>
+</div>
+
