@@ -2,7 +2,7 @@
 layout: post
 title:  "Closing in on a Final Map"
 date:   2019-02-18 17:58:11 +0700
-categories: jekyll
+categories: DataScience-Map
 ---
 I am excited to keep moving forward, which means moving beyond our bubble map.  We have a *choropleth* in the works, and over the next couple of sessions, it will be finalized. 
 
