@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "More Data"
+date:   2019-02-25 17:58:11 -0800
+categories: jekyll
+---
+With Data Science, getting your data properly formatted can be the largest part of the project. 
+
+This week, we will dive deeper into *geopandas* and *pandas*.  Cleaning the data and reducing the amount of data to just the necessary pieces will allow us to focus on our goal: making our choropleth map. We will save our final data set as a pickle file, so moving forward we will solely focus on plotting. 
+
+I will also introduce the concept of **Object *Attributes***, in particular, the pandas index attribute and contrast attributes with methods.  As a club, we have not touched on **Classes** yet, so this will just be a brief introduction.
+
+
