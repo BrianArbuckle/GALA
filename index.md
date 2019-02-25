@@ -25,7 +25,7 @@ Stay tuned, we will being making a choropleth map to better represent the data.
 11 - [Tuples and Geo data / Coordinates for mapping lines and boundaries](html/GALA_Coding_Club_11.html)<br>
 12 - [Data Structures Review, Intro to Pandas, and Drawing a zip code boundary on the map](html/GALA_Coding_Club_12.html)<br>
 13 - [Geopandas, Shapely & Geometry Datatype](html/GALA_Coding_Club_13.html)<br>
-14 - [More Pandas, Geopandas and Pickle](html/GALA_Coding_Club_14.html)
+14 - [More Pandas, Geopandas & Pickle](html/GALA_Coding_Club_14.html)
 
 
 *This page will be updated weekly thoughout the school year.
