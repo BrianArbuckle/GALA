@@ -21,7 +21,8 @@ The goal of the club is to engage the girls in coding, beyond scratch, with hand
 10 - Zip Codes Part 3 - The Bubble Map<br>
 11 - Tuples and Geo data / Coordinates for mapping lines and boundaries<br>
 12 - Data Structures Review, Intro to Pandas, and Drawing a zip code boundary on the map<br>
-13 - Geopandas, Shapely & Geometry Datatype
-14 - More Pandas, Geopandas & Pickle
+13 - Geopandas, Shapely & Geometry Datatype<br>
+14 - More Pandas, Geopandas & Pickle<br>
+15 - Google Colaboratory, Files & Paths<br>
 
 *This page will be updated weekly thoughout the school year.
