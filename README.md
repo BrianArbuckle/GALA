@@ -24,5 +24,6 @@ The goal of the club is to engage the girls in coding, beyond scratch, with hand
 13 - Geopandas, Shapely & Geometry Datatype<br>
 14 - More Pandas, Geopandas & Pickle<br>
 15 - Google Colaboratory, Files & Paths<br>
+16 - Finalizing Data<br>
 
 *This page will be updated weekly thoughout the school year.
