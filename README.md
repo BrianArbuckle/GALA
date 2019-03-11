@@ -30,6 +30,7 @@ Stay tuned, we will being making a choropleth map to better represent the data.
 13 - [Geopandas, Shapely & Geometry Datatype](html/GALA_Coding_Club_13.html)<br>
 14 - [More Pandas, Geopandas & Pickle](html/GALA_Coding_Club_14.html)<br>
 15 - [Google Colaboratory, Files & Paths](html/GALA_Coding_Club_15.html)<br>
+16 - [Finalizing Data](html/GALA_Coding_Club_16.html)<br>
 
 
 *This page will be updated weekly thoughout the school year.
