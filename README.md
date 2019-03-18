@@ -6,7 +6,7 @@ This repository is for the 2018-2019 python coding club that I run at the **Girl
 The goal of the club is to engage the girls in coding, beyond scratch, with hands-on practical data science and IOT projects to see the problem-solving potential of coding in everyday life. 
 
 ## Current Project:
-[Zip Code Map v1](html/gala_zip_map_v1.html) - *see below **'Zip Codes Part 3 - The Bubble Map'** for the code*
+[Zip Code Map v2](html/gala_zip_map_v2.html) - *see below **'The Choropleth is Here!'** for the code*
 
 Stay tuned, we will being making a choropleth map to better represent the data.
 
@@ -31,6 +31,7 @@ Stay tuned, we will being making a choropleth map to better represent the data.
 14 - [More Pandas, Geopandas & Pickle](html/GALA_Coding_Club_14.html)<br>
 15 - [Google Colaboratory, Files & Paths](html/GALA_Coding_Club_15.html)<br>
 16 - [Finalizing Data](html/GALA_Coding_Club_16.html)<br>
+17 - [The Choropleth is Here!](html/GALA_Coding_Club_1.html)<br>
 
 
 *This page will be updated weekly thoughout the school year.
