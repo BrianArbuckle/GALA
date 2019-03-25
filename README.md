@@ -31,7 +31,8 @@ Stay tuned, we will being making a choropleth map to better represent the data.
 14 - [More Pandas, Geopandas & Pickle](html/GALA_Coding_Club_14.html)<br>
 15 - [Google Colaboratory, Files & Paths](html/GALA_Coding_Club_15.html)<br>
 16 - [Finalizing Data](html/GALA_Coding_Club_16.html)<br>
-17 - [The Choropleth is Here!](html/GALA_Coding_Club_1.html)<br>
+17 - [The Choropleth is Here!](html/GALA_Coding_Club_17.html)<br>
+18 - [Functions](html/GALA_Coding_Club_18.html)<br>
 
 
 *This page will be updated weekly thoughout the school year.
