@@ -26,5 +26,6 @@ The goal of the club is to engage the girls in coding, beyond scratch, with hand
 15 - Google Colaboratory, Files & Paths<br>
 16 - Finalizing Data<br>
 17 - The Choropleth is Here!<br>
+18 - Functions<br>
 
 *This page will be updated weekly thoughout the school year.
