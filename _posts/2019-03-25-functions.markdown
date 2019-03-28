@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Choropleth is Here!"
+title:  "Functions"
 date:   2019-03-18 09:48:36 -0800
 categories: jekyll
 ---
