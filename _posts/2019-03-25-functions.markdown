@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Choropleth is Here!"
-date:   2019-03-18 0948:36 -0800
+date:   2019-03-18 09:48:36 -0800
 categories: jekyll
 ---
 In the coming weeks, we are going to do some hands on review of everything we have learned.  But before we do that, we need to learn one more python feature: **Functions**.
