@@ -8,7 +8,7 @@ For today's hands on review, we are going to continue with tabula rasa, a blank 
 
 Here is today's challenge:
 
-1. Celsius °C to Fahrenheit °F converter:
-    ### $\frac{9}{5}$ $\times$	$c$ $+$ $32$<br>
-2. Find the area of a circle with the radius:
-    ### $a = \pi \times r^2$<br>
+1. Celsius °C to Fahrenheit °F converter:<br>
+    $\frac{9}{5}$ $\times$	$c$ $+$ $32$<br>
+2. Find the area of a circle with the radius:<br>
+    $a = \pi \times r^2$<br>
