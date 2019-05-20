@@ -32,5 +32,6 @@ Stay tuned, we will being making a choropleth map to better represent the data.
 18 - [Functions](html/GALA_Coding_Club_18.html)<br>
 19 - [Tabula Rasa - 1](html/GALA_Coding_Club_19.html)<br>
 20 - [Tabula Rasa - 2](html/GALA_Coding_Club_20.html)<br>
+21 - [MAP Function](html/GALA_Coding_Club_21.html)<br>
 
 *This page will be updated weekly thoughout the school year.
