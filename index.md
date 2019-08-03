@@ -34,4 +34,8 @@ Stay tuned, we will being making a choropleth map to better represent the data.
 20 - [Tabula Rasa - 2](html/GALA_Coding_Club_20.html)<br>
 21 - [MAP Function](html/GALA_Coding_Club_21.html)<br>
 
+## Part 3. Summer Session
+
+01 - [Functional Programming  & Project Euler](html/GALA_SummerSession_01.html)<br>
+
 *This page will be updated weekly thoughout the school year.

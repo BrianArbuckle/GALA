@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Differnt Kind of Map"
+title:  "A Different Kind of Map"
 date:   2019-05-20 07:05:08 -0800
 categories: funtions, map
 ---
