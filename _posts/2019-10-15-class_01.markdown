@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "We Are Back with Class!"
+date:   2019-10-15 06:55:00 -0800
+categories: classes, python
+---
+This week I will be introducing classes, or Object Oriented Programming in Python.  After several weeks of review, we are ready to dive into one of the powerful features of modern programming - the class.
