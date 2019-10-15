@@ -41,5 +41,9 @@ Stay tuned, we will being making a choropleth map to better represent the data.
 
 01 - [Functional Programming  & Project Euler](html/GALA_SummerSession_01.html)<br>
 
+## Part 4.  Intermediate Python
+
+01 - [Intro to OOP](html/GALA_Coding_Club_22.html)<br>
+
 
 *This page will be updated weekly thoughout the school year.
