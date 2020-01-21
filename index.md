@@ -43,5 +43,6 @@ Stay tuned, we will being making a choropleth map to better represent the data.
 01 - [Intro to OOP](html/GALA_Coding_Club_22.html)<br>
 02 - [Ciphers, scope and Unicode](html/GALA_Coding_Club_23.html)<br>
 03 - [Pizza Class](html/GALA_Coding_Club_24.html)<br>
+04 - [Character Class](html/GALA_Coding_Club_25.html)<br>
 
 *This page will be updated weekly thoughout the school year.
