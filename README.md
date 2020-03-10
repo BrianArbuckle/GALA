@@ -48,5 +48,10 @@ Stay tuned, we will being making a choropleth map to better represent the data.
 03 - [Pizza Class](html/GALA_Coding_Club_24.html)<br>
 04 - [Character Class](html/GALA_Coding_Club_25.html)<br>
 05 - [Character Class - So Random](html/GALA_Coding_Club_26.html)<br>
+06 - [Classes - Class Methods @classmethod](html/GALA_Coding_Club_27.html)<br>
+07 - [Classes - Review / @staticmethod](html/GALA_Coding_Club_28.html)<br>
+08 - [Classes - Inheritance](html/GALA_Coding_Club_29.html)<br>
+09 - [Classes - Magic Methods - aka dunders](html/GALA_Coding_Club_30.html)<br>
+
 
 *This page will be updated weekly thoughout the school year.
