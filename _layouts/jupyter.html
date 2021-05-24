@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  {%- include head.html -%}
+
+  <body style="padding:0px">
+    <header>
+        <div class="inner">
+          <a href="{{ '/' | absolute_url }}" style="text-decoration: none">
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          </a>
+          <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+          
+        </div>
+    </header>
+
+    {{ content }}
+
+    {%- include google_analytics.html -%}
+  </body>
+</html>
